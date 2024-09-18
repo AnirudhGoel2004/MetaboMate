@@ -1,0 +1,110 @@
+/* General styling */
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  color: #333;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+header {
+  background-color: #fda085;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 15px 15px 0 0;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #ffffff;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  width: 500px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+label {
+  font-weight: bold;
+  color: #1b4332;
+}
+
+input,
+select {
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+input[type="submit"] {
+  background-color: #fda085;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #f6d365;
+}
+
+.slider {
+  width: 100%;
+  margin: 10px 0;
+}
+
+#goal-label {
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.result {
+  text-align: center;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  color: #1b4332;
+}
+
+a {
+  color: #1b4332;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.tip {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #1b4332;
+  font-style: italic;
+}
