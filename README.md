@@ -4,14 +4,6 @@ MetaboMate is a user-friendly web application that helps users track their daily
 
 The app includes a "Fitness Tip of the Day" feature for daily motivation and guidance.
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Main Menu](#main-menu)
-- [Results](#results)
-
 ## Features
 
 ### 1. **BMI and Caloric Need Calculation**
