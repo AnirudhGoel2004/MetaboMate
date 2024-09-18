@@ -9,9 +9,8 @@ The app includes a "Fitness Tip of the Day" feature for daily motivation and gui
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Future Improvements](#future-improvements)
+- [Main Menu](#main-menu)
+- [Results](#results)
 
 ## Features
 
